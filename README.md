@@ -103,7 +103,7 @@ All entries are optional, you can define only what you need to enforce.
 
 ### Env variables
 
-you can also use the following environement variable
+you can also use the following environment variable
 
 `KARBON_SERVER`  
 `KARBON_PORT`  
